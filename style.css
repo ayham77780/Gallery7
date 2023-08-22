@@ -1,10 +1,6 @@
 
 * {scroll-behavior: smooth;}
 
-#footer555 {
-	bottom: 0;
-}
-
 footer {
 color: white;
 }
@@ -33,9 +29,6 @@ color: white;
   
 }
 
-#footer555 {
-	bottom: 0;
-}
 
 @media (max-width: 768px) 
 {
@@ -50,26 +43,10 @@ color: white;
 	}
 
 
-// Large devices (desktops, 992px and up)
-@media (min-width: 992px) { 
-.img-fluid{
-	
-	 width: 50%;
-   margin: auto;
-  
-} }
-
-// Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { 
-.img-fluid{
-	
-	 width: 50%;
-   margin: auto;
-  
-} }
 
 
 @media (max-width: 768px) 
 {
 	#myCarousel {margin-top: 10%;}
 }
+
