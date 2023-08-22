@@ -6,10 +6,11 @@ footer {
 color: white;
 }
 
+.nav1 {margin-bottom: 1%;}
 
+#myCarousel {margin-top: 1%;}
 
-
-.space {min-height: 60px;}
+.space {min-height: 4vw;}
  
 
 .carousel-indicators {
@@ -59,3 +60,9 @@ color: white;
    margin: auto;
   
 } }
+
+
+@media (max-width: 768px) 
+{
+	#myCarousel {margin-top: 10%;}
+}
