@@ -30,6 +30,10 @@ color: white;
   
 }
 
+#footer555 {
+	bottom: 0;
+}
+
 @media (max-width: 768px) 
 {
 
