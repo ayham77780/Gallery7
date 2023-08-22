@@ -1,6 +1,9 @@
 
 * {scroll-behavior: smooth;}
 
+#footer555 {
+	bottom: 0;
+}
 
 footer {
 color: white;
